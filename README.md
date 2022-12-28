@@ -26,5 +26,5 @@ jasmine
 selenium-webdriver
 start from command line
 сonnect Report for tests
- design patterns
+design patterns
 
